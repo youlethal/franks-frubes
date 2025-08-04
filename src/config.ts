@@ -21,7 +21,7 @@ export const defaultConfig: TemplateConfig = {
     accentColor: "#6366f1",
     fontFamily: "Inter, sans-serif"
   },
-  modules: ["gallery","booking"],
+  modules: ["booking","gallery"],
   darkMode: false
 };
 
